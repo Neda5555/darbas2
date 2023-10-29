@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Word Character Counter</string>
+    <string name="word_count">Count Words</string>
+    <string name="char_count">Count Characters</string>
+    <string name="result">Result: %d</string>
+    <string name="empty_input_message">Please enter text.</string>
+    <string name="input_text">Input text...AAA.</string>
+    <string name="textview">Results</string>
+    <string name="button">Button</string>
+</resources>

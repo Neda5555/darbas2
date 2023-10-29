@@ -1,0 +1,6 @@
+<resources>
+    <array name="count_options">
+        <item>Count Words</item>
+        <item>Count Characters</item>
+    </array>
+</resources>
